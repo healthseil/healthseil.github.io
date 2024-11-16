@@ -86,7 +86,7 @@ College of Medicine - Tucson, The University of Arizona
 * Charlie Fractal, BS in Computer Science, Fall 2016 – Spring 2017
 * Lenny Lopez, BS in Computer Engineering, Fall 2016 – Spring 2017
 
-### Pre-college Research Alumni 
+### Pre-college Alumni 
 
 * Raiyan Choudhary, BASIS Chandler, BIO5 KEYS Intern, Summer 2022
 * Gabriella Bonilla, Palo Verde High School, BIO5 KEYS Intern, Summer 2019
