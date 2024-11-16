@@ -1,0 +1,61 @@
+site_name: Health Systems Engineering & Informatics Laboratory
+site_url: https://healthseil.github.io/
+
+nav: 
+  - Mission: index.md
+  - People: people.md
+  - Research: research.md
+  - Products: products.md
+
+theme:
+  name: material
+  font:
+    text: PT Sans
+  icon:
+    logo: material/palette-swatch-variant
+  features:
+    - navigation.footer
+    - navigation.tabs #adds a menu on the top
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs.sticky
+    - toc.follow
+    - toc.integrate 
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: teal
+      accent: yellow
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue grey
+      accent: indigo
+
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.critic
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/vsubbian
+  generator: false
+
+copyright: Copyright &copy; 2024 Vignesh Subbian, The University of Arizona
