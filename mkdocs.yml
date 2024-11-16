@@ -22,22 +22,20 @@ theme:
     - toc.follow
     - toc.integrate 
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: teal
-      accent: yellow
-
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: Light mode
+        name: Dark mode
       primary: blue grey
       accent: indigo
-
+   # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+      primary: teal
+      accent: yellow
 
 markdown_extensions:
   - attr_list
