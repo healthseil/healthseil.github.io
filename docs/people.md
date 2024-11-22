@@ -37,7 +37,7 @@ College of Medicine - Tucson, The University of Arizona
     Major: PhD in Systems & Industrial Engineering  
     Minor: Information Science  
 
-    **Fantacher Islam**  
+    **Md Fantacher Islam**  
     Major: PhD in Systems & Industrial Engineering  
     Minor: Information Science  
 
