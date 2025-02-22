@@ -4,6 +4,7 @@
 #### :material-clock-fast:{ .lg .middle } __Time-series Modeling__ 
 *"Time is the invisible architect of all our stories."*  
 
+* Pungitore, S., & Subbian, V. (2024, September). [(__TADPole__): A Framework for Characterizing Temporal Model Data Drifts at the Point-of-Care.](https://ieeexplore.ieee.org/abstract/document/10876202) 2024 IEEE Healthcare Innovations and Point of Care Technologies (HI-POCT) Conference (pp. 25-28). IEEE.  
 * Ghaderi, H., Foreman, B., Nayebi, A., Tipirneni, S., Reddy, C. K., & Subbian, V. (2023). [A self-supervised learning-based approach to clustering multivariate time-series data with missing values (__SLAC-Time__): An application to TBI phenotyping.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10527271/){:target="_blank"} Journal of Biomedical Informatics, 143, 104401.  
 * Pungitore, S., & Subbian, V. (2023). [Assessment of Prediction Tasks and Time Window Selection in Temporal Modeling of Electronic Health Record Data: a Systematic Review.](https://doi.org/10.1007/s41666-023-00143-4){:target="_blank"} Journal of Healthcare Informatics Research, 7(3), 313-331.  
 * Ghaderi, H., Foreman, B., Nayebi, A., Tipirneni, S., Reddy, C. K., & Subbian, V. (2023). [Identifying TBI physiological states by clustering multivariate clinical time-series data.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785849/){:target="_blank"} In AMIA Annual Symposium Proceedings (Vol. 2023, p. 379). American Medical Informatics Association.  
@@ -34,7 +35,7 @@
 _Post-acute Sequelae of SARS-COV-2 (PASC) or Long COVID_  
 * Pungitore, S., Olorunnisola, T., Mosier, J., Subbian, V., & N3C Consortium (2024). [Computable Phenotypes for Post-acute sequelae of SARS-CoV-2: A National COVID Cohort Collaborative Analysis.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785914/){:target="_blank"} AMIA Annual Symposium Proceedings, 2023, 589–598.
 
-### __Clinical Decision Support Systems__
+### __Decision Support Systems__
 
 #### Drug-Drug Interactions
 > This research developed and validated a range of computable artifacts for drug-drug interaction clinical decision support. Funded by the Agency for Healthcare Research & Quality under grant #R01HS025984 (PI: D. Malone), the project developed algorithms for eight key drug-drug interactions that were frequently overridden and/or considered important by prescribers. Designed  to reduce alert fatigue and improve patient safety, these algorithms allow for contextual alerting based on patient-specific data, along with evidence-based explanations. 
@@ -43,6 +44,11 @@ _Post-acute Sequelae of SARS-COV-2 (PASC) or Long COVID_
 * Zhang, T., Gephart, S. M., Subbian, V., Boyce, R. D., Villa-Zapata, L., Tan, M. S., Horn, J., Gomez-Lumbreras, A., Romero, A.V. & Malone, D. C. (2023). [Barriers to Adoption of Tailored Drug–Drug Interaction Clinical Decision Support.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10550365/){:target="_blank"} Applied Clinical Informatics, 14(04), 779-788.
 * Villa Zapata, L., Subbian, V., Boyce, R. D., Hansten, P. D., Horn, J. R., Gephart, S. M., Romero, A., & Malone, D. C. (2022). [Overriding drug-drug interaction alerts in clinical decision support systems: a scoping review.](https://ebooks.iospress.nl/doi/10.3233/SHTI220101){:target="_blank"} Studies in Health Technology and Informatics (MEDINFO 2021), 380-384.
 * :material-web:{ .middle } Public Website with all products: _Drug-Drug Interaction Clinical Decision Support_, [https://ddi-cds.org/](https://ddi-cds.org/){:target="_blank"}
+
+#### Cognitive Informatics 
+
+* Zhang, T., Mosier, J., Campbell, E. S., & Subbian, V. (2024). [To NIRS or not: understanding clinical decision-making of respiratory support management related to acute respiratory failure using Critical Decision Method.](https://doi.org/10.1080/24725579.2024.2335988) IISE Transactions on Healthcare Systems Engineering, 1-12.  
+* Zhang, T., Mosier, J., & Subbian, V. (2025). [How do clinicians use electronic health records for respiratory support decisions? A qualitative study in critical care.](https://doi.org/10.1055/a-2521-2557) ACI Open, 9(01), e9-e17.  
 
 #### Telemedicine
 

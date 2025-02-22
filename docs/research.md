@@ -47,4 +47,6 @@ To support our translational work, we study how decisions are made in real-world
 
     Zhang, T., Mosier, J., Campbell, E. S., & Subbian, V. (2024). **To NIRS or not: understanding clinical decision-making of respiratory support management related to acute respiratory failure using Critical Decision Method.** IISE Transactions on Healthcare Systems Engineering, 1-12. <a href="https://doi.org/10.1080/24725579.2024.2335988" target="_blank">https://doi.org/10.1080/24725579.2024.2335988</a>
 
+    Zhang, T., Mosier, J., & Subbian, V. (2025). **How do clinicians use electronic health records for respiratory support decisions? A qualitative study in critical care.** ACI Open, 9(01), e9-e17. <a href="10.1055/a-2521-2557" target="_blank">https://doi.org/10.1055/a-2521-2557</a>
+
     Essay, P. T., Mosier, J. M., Nayebi, A., Fisher, J. M., & Subbian, V. (2023). Predicting Failure of Noninvasive Respiratory Support Using Deep Recurrent Learning. Respiratory care, 68(4), 488–496. <a href="https://doi.org/10.4187/respcare.10382" target="_blank">https://doi.org/10.4187/respcare.10382</a>
