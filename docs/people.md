@@ -43,11 +43,18 @@ College of Medicine - Tucson, The University of Arizona
 
 === "Undergraduate Trainees"
 
-    **Emeral Norzagaray**    
-    Major: Microbiology  
-    NIH R25 Scholar  
+    **Isabella Mixton-Garcia**    
+    Major: Biomedical Engineering  
+    NIH R25 Scholar
+
+     **Yona Kleinerman**    
+    Major: Biomedical Engineering  
+    Undergraduate Biology Research Program (UBRP) Scholar
 
 === "High School Interns"
+
+    **Abigail Hernandez**    
+    KEYS Research Intern
 
 ## Research Alumni
 
@@ -72,6 +79,7 @@ College of Medicine - Tucson, The University of Arizona
 
 ### Undergraduate Alumni 
 
+* Emeral Norzagaray, BS in Microbiology, Summer 2024 - Fall 2024, NIH R25 Scholar
 * Anna Jiang, BS in Biomedical Engineering, Fall 2023 – Spring 2024
 * Alexandra Heald, BS in Biomedical Engineering, Fall 2020 – Spring 2021
 * Connor Fletcher, BS in Neuroscience & Cognitive Science, Fall 2020 – Spring 2021
