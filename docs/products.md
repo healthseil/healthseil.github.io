@@ -2,8 +2,8 @@
 
 > Our work in the broad area of generative AI and health is focused on applying and evaluating open-source, large (and relatively, small) language models (LLMs) for biomedical applications that depend on structured health data such as computational phenotyping. We are particularly focused on rigorous evaluation and evidence generation to support implementation of LLM-based tools and solutions in research and clinical settings. 
 
-* Pungitore, S., Yadav, S., & Subbian, V. (2025). [(__PHEONA__): An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping.](https://arxiv.org/abs/2503.19265){:target="_blank"} Accepted for presentation at 2025 AMIA Annual Symposium Proceedings.
-* Pungitore, S., Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2025). [(__SHREC__): A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models.](https://arxiv.org/abs/2506.16359){:target="_blank"} Under Review.
+* Pungitore, S., Yadav, S., & Subbian, V. (2025). [__PHEONA__: An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping.](https://arxiv.org/abs/2503.19265){:target="_blank"} Accepted for presentation at 2025 AMIA Annual Symposium Proceedings.
+* Pungitore, S., Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2025). [__SHREC__: A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models.](https://arxiv.org/abs/2506.16359){:target="_blank"} Under Review.
 * Pungitore, S., Yadav, S., Maughan, D., & Subbian, V. (2025). [Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks.](https://arxiv.org/abs/2507.23146){:target="_blank"} Under Review.
 
 ### __Acute Care Innovations__
@@ -12,7 +12,7 @@
 #### :material-clock-fast:{ .lg .middle } __Time-series Modeling__ 
 *"Time is the invisible architect of all our stories."*  
 
-* Pungitore, S., & Subbian, V. (2024, September). [(__TADPole__): A Framework for Characterizing Temporal Model Data Drifts at the Point-of-Care.](https://ieeexplore.ieee.org/abstract/document/10876202) 2024 IEEE Healthcare Innovations and Point of Care Technologies (HI-POCT) Conference (pp. 25-28). IEEE.  
+* Pungitore, S., & Subbian, V. (2024, September). [__TADPole__: A Framework for Characterizing Temporal Model Data Drifts at the Point-of-Care.](https://ieeexplore.ieee.org/abstract/document/10876202) 2024 IEEE Healthcare Innovations and Point of Care Technologies (HI-POCT) Conference (pp. 25-28). IEEE.  
 * Ghaderi, H., Foreman, B., Nayebi, A., Tipirneni, S., Reddy, C. K., & Subbian, V. (2023). [A self-supervised learning-based approach to clustering multivariate time-series data with missing values (__SLAC-Time__): An application to TBI phenotyping.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10527271/){:target="_blank"} Journal of Biomedical Informatics, 143, 104401.  
 * Pungitore, S., & Subbian, V. (2023). [Assessment of Prediction Tasks and Time Window Selection in Temporal Modeling of Electronic Health Record Data: a Systematic Review.](https://doi.org/10.1007/s41666-023-00143-4){:target="_blank"} Journal of Healthcare Informatics Research, 7(3), 313-331.  
 * Ghaderi, H., Foreman, B., Nayebi, A., Tipirneni, S., Reddy, C. K., & Subbian, V. (2023). [Identifying TBI physiological states by clustering multivariate clinical time-series data.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10785849/){:target="_blank"} In AMIA Annual Symposium Proceedings (Vol. 2023, p. 379). American Medical Informatics Association.  
