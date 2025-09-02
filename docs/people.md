@@ -39,7 +39,11 @@ College of Medicine - Tucson, The University of Arizona
 
     **Md Fantacher Islam**  
     Major: PhD in Systems & Industrial Engineering  
-    Minor: Information Science  
+    Minor: Information Science
+
+     **David Maughan**     
+    Major: PhD in Systems & Industrial Engineering   
+    Minor: TBD
 
 === "Undergraduate Trainees"
 

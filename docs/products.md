@@ -1,3 +1,11 @@
+### __Generative AI and Health__
+
+> Our work in the broad area of generative AI and health is focused on applying and evaluating open-source, large (and relatively, small) language models (LLMs) for biomedical applications that depend on structured health data such as computational phenotyping. We are particularly focused on rigorous evaluation and evidence generation to support implementation of LLM-based tools and solutions in research and clinical settings. 
+
+* Pungitore, S., Yadav, S., & Subbian, V. (2025). [(__PHEONA__): An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping.](https://arxiv.org/abs/2503.19265){:target="_blank"} Accepted for presentation at 2025 AMIA Annual Symposium Proceedings.
+* Pungitore, S., Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2025). [(__SHREC__): A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models.](https://arxiv.org/abs/2506.16359){:target="_blank"} Under Review.
+* Pungitore, S., Yadav, S., Maughan, D., & Subbian, V. (2025). [Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks.](https://arxiv.org/abs/2507.23146){:target="_blank"} Under Review.
+
 ### __Acute Care Innovations__
 
 > This project sought to develop informatics-based tools and advanced computational algorithms for critical care medicine, with applications to traumatic brain injury, acute respiratory failure, and acute heart failure. We developed solutions for complex tasks such as _identifying_ clinical subgroups, _predicting_ short-term and long-term outcomes for critically ill patients from multimodal physiologic and time-series clinical data, as well as _interpreting_ and explaining model behavior to users. This work was supported in part by the National Science Foundation under grant #1838745.
@@ -13,6 +21,9 @@
 * Essay, P., Balkan, B., & Subbian, V. (2020). [Decompensation in critical care: early prediction of acute heart failure onset.](https://doi.org/10.2196/19892){:target="_blank"} JMIR Medical Informatics, 8(8), e19892.  
 
 #### Explainable AI
+* Yadav, S., & Subbian, V. (2025). [Failure Modes of Time Series Interpretability Algorithms for Critical Care Applications and Potential Solutions.](https://arxiv.org/abs/2506.19035){:target="_blank"} Accepted for presentation at 2025 AMIA Annual Symposium Proceedings.
+* Yadav, S., & Subbian, V. (2025). Monte Carlo ExtremalMask: Uncertainty-aware Time-series Model Interpretability for Critical Care Applications. Machine Learning for Healthcare 2025, Proceedings of Machine Learning Research, pp. 289-305.
+* Yadav, S., & Subbian, V. (2025, July). When Attention Fails: [Pitfalls of Attention-based Model Interpretability for High-dimensional Clinical Time-Series.](https://proceedings.mlr.press/v287/yadav25a.html){:target="_blank"} Proceedings of Machine Learning Research, pp. 289-305.
 * Nayebi, A., Tipirneni, S., Reddy, C. K., Foreman, B., & Subbian, V. (2023). [__WindowSHAP__: An efficient framework for explaining time-series classifiers based on Shapley values.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10552726/){:target="_blank"} Journal of Biomedical Informatics, 144, 104438.   
 * Nayebi, A., Tipirneni, S., Foreman, B., Reddy, C. K., & Subbian, V. (2023). [An Empirical Comparison of Explainable Artificial Intelligence Methods for Clinical Data: A Case Study on Traumatic Brain Injury.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148324/){:target="_blank"} AMIA Annual Symposium Proceedings. 2022, 815–824.
 
