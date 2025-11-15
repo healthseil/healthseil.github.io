@@ -21,10 +21,6 @@ College of Medicine - Tucson, The University of Arizona
 
 === "Graduate Trainees"
 
-    **Sarah Pungitore**     
-    Major: PhD in Applied Mathematics   
-    Minor: Biomedical Engineering
-
     **Nicholas Souligne**  
     Major: PhD in Biomedical Engineering  
     Minor: Neuroscience  
@@ -66,6 +62,7 @@ College of Medicine - Tucson, The University of Arizona
 
 | Graduate             | Program                              |Award Year| First Position |
 | ------------------- | --------------------------------------|-----|----------------|
+| Sarah Pungitore    | PhD in Applied Mathematics | 2025 | Assistant Research Professor, The University of Arizona|
 | Tianyi (Tim) Zhang | PhD in Systems & Industrial Engineering| 2023 | Human Factors Engineer, Food & Drug Administration (FDA) |
 | Amin Nayebi        | PhD in Systems & Industrial Engineering| 2023 | Postdoctoral Scientist, George Mason University |
 | Hamid Ghaderi      | PhD in Systems & Industrial Engineering| 2023 | Postdoctoral Scientist, UT Southwestern Medical Center |
