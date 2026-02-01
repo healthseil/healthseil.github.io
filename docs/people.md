@@ -41,6 +41,9 @@ College of Medicine - Tucson, The University of Arizona
     Major: PhD in Systems & Industrial Engineering   
     Minor: TBD
 
+     **A.J. Makkyla**     
+    Major: MS in Biomedical Engineering
+
 === "Undergraduate Trainees"
 
     **Isabella Mixton-Garcia**    
@@ -62,6 +65,7 @@ College of Medicine - Tucson, The University of Arizona
 
 | Graduate             | Program                              |Award Year| First Position |
 | ------------------- | --------------------------------------|-----|----------------|
+| Shashank Yadav    | PhD in Biomedical Engineering | 2025 | Postdoctoral Research Fellow, Mayo Clinic|
 | Sarah Pungitore    | PhD in Applied Mathematics | 2025 | Assistant Research Professor, The University of Arizona|
 | Tianyi (Tim) Zhang | PhD in Systems & Industrial Engineering| 2023 | Human Factors Engineer, Food & Drug Administration (FDA) |
 | Amin Nayebi        | PhD in Systems & Industrial Engineering| 2023 | Postdoctoral Scientist, George Mason University |
