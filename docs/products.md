@@ -36,7 +36,7 @@
 * Essay, P., Mosier, J., & Subbian, V. (2020). [Rule-based cohort definitions for acute respiratory failure: electronic phenotyping algorithm.](https://doi.org/10.2196/18402/){:target="_blank"} JMIR Medical Informatics, 8(4), e18402.  
 * Essay, P., Fisher, J. M., Mosier, J. M., & Subbian, V. (2022). [Validation of an electronic phenotyping algorithm for patients with acute respiratory failure.](https://doi.org/10.1097/CCE.0000000000000645){:target="_blank"} Critical Care Explorations, 4(3), e0645.
 * Mosier, J. M., Subbian, V., Pungitore, S., Prabhudesai, D., Essay, P., Bedrick, E. J., Stocking, J. C., & Fisher, J. M. (2024). [Noninvasive vs invasive respiratory support for patients with acute hypoxemic respiratory failure.](https://doi.org/10.1371/journal.pone.0307849){:target="_blank"} PloS one, 19(9), e0307849.
-* Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2026). [Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and interpretability.](https://doi.org/10.1016/j.jbi.2025.104969){:target="_blank"}Journal of biomedical informatics, 173, 104969.
+* Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2026). [Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and interpretability.](https://doi.org/10.1016/j.jbi.2025.104969){:target="_blank"} Journal of biomedical informatics, 173, 104969.
 * Essay, P., Mosier, J. M., Nayebi, A., Fisher, J. M., & Subbian, V. (2023). [Predicting failure of noninvasive respiratory support using deep recurrent learning.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10173118/){:target="_blank"} Respiratory Care, 68(4), 488-496
 
 #### :material-virus:{ .middle } COVID-19
