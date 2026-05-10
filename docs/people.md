@@ -25,10 +25,6 @@ College of Medicine - Tucson, The University of Arizona
     Major: PhD in Biomedical Engineering  
     Minor: Neuroscience  
 
-    **Shashank Yadav**  
-    Major: PhD in Biomedical Engineering  
-    Minor: Information Science
-
     **Toluwanimi Olorunnisola**  
     Major: PhD in Systems & Industrial Engineering  
     Minor: Information Science  

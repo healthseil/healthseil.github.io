@@ -2,8 +2,8 @@
 
 > Our work in the broad area of generative AI and health is focused on applying and evaluating open-source, large (and relatively, small) language models (LLMs) for biomedical applications that depend on structured health data such as computational phenotyping. We are particularly focused on rigorous evaluation and evidence generation to support implementation of LLM-based tools and solutions in research and clinical settings. 
 
-* Pungitore, S., Yadav, S., & Subbian, V. (2025). [__PHEONA__: An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping.](https://arxiv.org/abs/2503.19265){:target="_blank"} Accepted for presentation at 2025 AMIA Annual Symposium Proceedings.
-* Pungitore, S., Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2025). [__SHREC__: A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models.](https://arxiv.org/abs/2506.16359){:target="_blank"} Under Review.
+* Pungitore, S., Yadav, S., & Subbian, V. (2025). [__PHEONA__: An Evaluation Framework for Large Language Model-based Approaches to Computational Phenotyping.](https://pmc.ncbi.nlm.nih.gov/articles/PMC12919548/){:target="_blank"} 2025 AMIA Annual Symposium Proceedings.
+* Pungitore, S., Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2025). [__SHREC__: A Framework for Advancing Next-Generation Computational Phenotyping with Large Language Models.](https://doi.org/10.1371/journal.pdig.0001217){:target="_blank"} PLoS Digit Health. 2026 Feb 13;5(2):e0001217.
 * Pungitore, S., Yadav, S., Maughan, D., & Subbian, V. (2025). [Lightweight Language Models are Prone to Reasoning Errors for Complex Computational Phenotyping Tasks.](https://arxiv.org/abs/2507.23146){:target="_blank"} Under Review.
 
 ### __Acute Care Innovations__
@@ -32,9 +32,11 @@
 > We pioneered a comprehensive effort to advance electronic phenotyping for respiratory care, including first-of-its-kind rule-based phenotyping algorithm to stratify patient records by ventilation strategies. This algorithm has been rigorously validated and applied to both de novo hypoxemic respiratory failure and COVID-19 associated respiratory failure. This work was supported in part by the Emergency Medicine Foundation.
 
 #### :material-lungs:{ .middle } Acute Respiratory Failure  
+* Islam, M. F., Mosier, J., & Subbian, V. (2026). [Development and evaluation of an ontology for non-invasive respiratory support in acute care.](https://doi.org/10.1371/journal.pone.0348199){:target="_blank"} PLoS One, 21(5), e0348199.
 * Essay, P., Mosier, J., & Subbian, V. (2020). [Rule-based cohort definitions for acute respiratory failure: electronic phenotyping algorithm.](https://doi.org/10.2196/18402/){:target="_blank"} JMIR Medical Informatics, 8(4), e18402.  
 * Essay, P., Fisher, J. M., Mosier, J. M., & Subbian, V. (2022). [Validation of an electronic phenotyping algorithm for patients with acute respiratory failure.](https://doi.org/10.1097/CCE.0000000000000645){:target="_blank"} Critical Care Explorations, 4(3), e0645.
 * Mosier, J. M., Subbian, V., Pungitore, S., Prabhudesai, D., Essay, P., Bedrick, E. J., Stocking, J. C., & Fisher, J. M. (2024). [Noninvasive vs invasive respiratory support for patients with acute hypoxemic respiratory failure.](https://doi.org/10.1371/journal.pone.0307849){:target="_blank"} PloS one, 19(9), e0307849.
+* Yadav, S., Douglas, M., Mosier, J., & Subbian, V. (2026). [Graph-spa: A Spatiotemporal Graph Neural Network based framework for ARDS prediction and interpretability.](https://doi.org/10.1016/j.jbi.2025.104969){:target="_blank"}Journal of biomedical informatics, 173, 104969.
 * Essay, P., Mosier, J. M., Nayebi, A., Fisher, J. M., & Subbian, V. (2023). [Predicting failure of noninvasive respiratory support using deep recurrent learning.](https://pmc.ncbi.nlm.nih.gov/articles/PMC10173118/){:target="_blank"} Respiratory Care, 68(4), 488-496
 
 #### :material-virus:{ .middle } COVID-19
