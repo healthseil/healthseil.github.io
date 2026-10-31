@@ -21,9 +21,9 @@ College of Medicine - Tucson, The University of Arizona
 
 === "Graduate Trainees"
 
-    **Nicholas Souligne**  
+    **Yona Kleinerman**  
     Major: PhD in Biomedical Engineering  
-    Minor: Neuroscience  
+    Minor: Systems Engineering  
 
     **Toluwanimi Olorunnisola**  
     Major: PhD in Systems & Industrial Engineering  
@@ -37,7 +37,7 @@ College of Medicine - Tucson, The University of Arizona
     Major: PhD in Systems & Industrial Engineering   
     Minor: TBD
 
-     **A.J. Makkyla**     
+     **Krishna Amerneni**     
     Major: MS in Biomedical Engineering
 
 === "Undergraduate Trainees"
@@ -45,10 +45,6 @@ College of Medicine - Tucson, The University of Arizona
     **Isabella Mixton-Garcia**    
     Major: Biomedical Engineering  
     NIH R25 Scholar
-
-     **Yona Kleinerman**    
-    Major: Biomedical Engineering  
-    Undergraduate Biology Research Program (UBRP) Scholar
 
 === "High School Interns"
 
@@ -61,6 +57,7 @@ College of Medicine - Tucson, The University of Arizona
 
 | Graduate             | Program                              |Award Year| First Position |
 | ------------------- | --------------------------------------|-----|----------------|
+| Nick Souligne    | PhD in Biomedical Engineering | 2026 | Postdoctoral Research Fellow, University of Arizona|
 | Shashank Yadav    | PhD in Biomedical Engineering | 2025 | Postdoctoral Research Fellow, Mayo Clinic|
 | Sarah Pungitore    | PhD in Applied Mathematics | 2025 | Assistant Research Professor, The University of Arizona|
 | Tianyi (Tim) Zhang | PhD in Systems & Industrial Engineering| 2023 | Human Factors Engineer, Food & Drug Administration (FDA) |
@@ -73,6 +70,7 @@ College of Medicine - Tucson, The University of Arizona
 
 | Graduate         | Program                   |Award Year| First Position |
 | ---------------- | ------------------------- |----- |----------------|
+| Alan "AJ" Makkyla  | MS, Biomedical Engineering   | 2026 | Associate Systems Engineer, Roche |
 | Sara Hohenstein  | MS, Systems Engineering   | 2021 | Integration Engineer, Epic Systems Corporation |
 | Andrew Filiberti | MS, Biomedical Engineering| 2021 | Data Analyst, Panalgo |
 | Collin Gilchrist | MS, Biomedical Engineering| 2018 | Technical Services Engineer, Epic Systems Corporation |
@@ -97,6 +95,7 @@ College of Medicine - Tucson, The University of Arizona
 
 ### Pre-college Alumni 
 
+* Abigail Hernandez, Arizona Virtual Academy, BIO5 KEYS Intern, Summer 2025
 * Raiyan Choudhary, BASIS Chandler, BIO5 KEYS Intern, Summer 2022
 * Gabriella Bonilla, Palo Verde High School, BIO5 KEYS Intern, Summer 2019
 * Matthew Prevatt, Salpointe High School, Summer 2018 – Spring 2019
